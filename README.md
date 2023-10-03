@@ -8,7 +8,7 @@
 ## Demo
 
 <p align="center">
-<img src="https://github.com/RomanyanaSol/Fairy-Forest/blob/main/demo.gif" >
+<img src="https://github.com/RomanyanaSol/Creative-Portfolio/blob/main/Demo.gif" >
 </p>
 
 ## Built With
