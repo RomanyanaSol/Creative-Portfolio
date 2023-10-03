@@ -20,5 +20,9 @@
 Use ScrollSmoother and ScrollTrigger by <a href = "https://greensock.com/scrollsmoother/">Green Sock</a>
 
 <p align="center">
-<img src="https://github.com/RomanyanaSol/Fairy-Forest/blob/main/ScrollSmoother.jpg" >
+<img src="https://github.com/RomanyanaSol/Creative-Portfolio/blob/main/Demo%20Java%20Script%201.jpg" >
+</p>
+
+<p align="center">
+<img src="https://github.com/RomanyanaSol/Creative-Portfolio/blob/main/Demo%20Java%20Script%202.jpg" >
 </p>
