@@ -17,7 +17,7 @@
 
 ## Code Example
 
-Use ScrollSmoother by <a href = "https://greensock.com/scrollsmoother/">Green Sock</a>
+Use ScrollSmoother and ScrollTrigger by <a href = "https://greensock.com/scrollsmoother/">Green Sock</a>
 
 <p align="center">
 <img src="https://github.com/RomanyanaSol/Fairy-Forest/blob/main/ScrollSmoother.jpg" >
